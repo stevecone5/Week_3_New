@@ -1,2 +1,3 @@
 # Week_3_New
-New repository for week3 graded assessment 
+
+I am editing the README file. Adding some more details about the project description. 
